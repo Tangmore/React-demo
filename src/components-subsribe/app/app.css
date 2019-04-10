@@ -1,0 +1,9 @@
+.comment-box{
+    width: 800px;
+    border: 1px solid #ccc;
+    margin: 60px auto;
+}
+header h2{  
+    color: #999;
+    text-align: center;
+}

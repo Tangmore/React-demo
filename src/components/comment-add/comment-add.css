@@ -1,0 +1,26 @@
+.comment-public{
+    border: none;
+    width: 50px;
+    padding: 4px;
+    float: right;
+    margin-right: 50px;
+    overflow: hidden;
+}
+.comment-public:hover{
+    background: #fcc;
+}
+.input-user{
+    text-indent: 4px;
+    border-radius: 4px;
+    border: 1px solid #ccc;
+    height: 26px;
+    margin-left: 20px;
+}
+textarea{
+    text-indent: 4px;
+    border-radius: 4px;
+    border: 1px solid #ccc;
+    height: 100px;
+    width: 90%;
+    margin-left: 20px;
+}

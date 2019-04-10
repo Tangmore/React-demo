@@ -1,0 +1,17 @@
+button{
+    float: right;
+    border: none;
+    width: 50px;
+    padding: 5px;
+}
+button:hover{
+    background: #fcc;
+}
+li{
+    list-style: none;
+    border-bottom: 1px solid #999;
+    margin-right: 50px;
+}
+.comment-user{
+    color: #f00;
+}
